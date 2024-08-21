@@ -27,7 +27,10 @@ pip install -r requirements.txt
 ```
 
 # Usage
-In **predict_image** Section Insert The Image And Select The Model
+```bash
+jupyter notebook KidenyDiseaseClassification.ipynb
+```
+for Prediction : in **predict_image** section insert the image and select the model
 
 # Contributing
 Contributions are welcome! Please fork this repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
